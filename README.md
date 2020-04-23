@@ -4,7 +4,7 @@
 
 My name is Jennifer Chinzi and I'm a 32 year old Seattlite taking my first steps into the world of coding.  That includes setting up a (Github Portolio)[https://github.com/jchinzi]!  
 
-##### Thursday, April 23rd   
+### Thursday, April 23rd   
 
 **Growth Mindset**
 
