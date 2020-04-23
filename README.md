@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to My Learning Journal!
 
-You can use the [editor on GitHub](https://github.com/jchinzi/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##About Me
+My name is Jennifer Chinzi and I'm a 32 year old Seattlite taking my first steps into the world of coding.  That includes setting up a (Github Portolio)[https://github.com/jchinzi]!  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#####Thursday, April 23rd   **Growth Mindset**
 
-### Markdown
+After reading Steve Haffenden's (article) [https://www.atlassian.com/blog/inside-atlassian/growth-mindset] *How you can benefit from a growth mindset*, my general impression is that a growth mindset reframes the definiton of "success" to focus on investing effort and experiencing growth of understanding and abilities, rather than soley judging success by ability and output.  Therefore, rather than sticking to what you're "good at", a growth mindset encourages you to lean into those areas that may not come as naturally or as easily and giving yourself space to try, stumble, and improve.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Embracing a growth mindset can be a challenge for me - it feels uncomfortable to face the fact that there are certain skill sets that just don't come naturally or easily to me, and that to improve I'm first going to have to reveal myself to be *not that smart after all* :scream:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jchinzi/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+So, as I continue on in my my coding education (and life in general, really) I will strive to remember:
+- Personal and Professional Growth will require Effort (sometimes more than expected).
+- Criticism is not a personal attack - instead, it is a learning opportunity.  Take it as such and *LISTEN*.
+- Don't be intimidated by or jealous of the success of others.  Be inspired and see them as potential resources. 
