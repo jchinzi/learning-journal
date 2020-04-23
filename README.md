@@ -2,13 +2,13 @@
 
 ## About Me
 
-My name is Jennifer Chinzi and I'm a 32 year old Seattlite taking my first steps into the world of coding.  That includes setting up a (Github Portolio)[https://github.com/jchinzi]!  
+My name is Jennifer Chinzi and I'm a 32 year old Seattlite taking my first steps into the world of coding.  That includes setting up a [Github Portolio](https://github.com/jchinzi)!  
 
 ### Thursday, April 23rd   
 
 **Growth Mindset**
 
-After reading Steve Haffenden's article (*How you can benefit from a growth mindset*)[https://www.atlassian.com/blog/inside-atlassian/growth-mindset], my general impression is that a growth mindset reframes the definiton of "success" to focus on investing effort and experiencing growth of understanding and abilities, rather than soley judging success by ability and output.  Therefore, rather than sticking to what you're "good at", a growth mindset encourages you to lean into those areas that may not come as naturally or as easily and giving yourself space to try, stumble, and improve.
+After reading Steve Haffenden's article [*How you can benefit from a growth mindset*](https://www.atlassian.com/blog/inside-atlassian/growth-mindset), my general impression is that a growth mindset reframes the definiton of "success" to focus on investing effort and experiencing growth of understanding and abilities, rather than soley judging success by ability and output.  Therefore, rather than sticking to what you're "good at", a growth mindset encourages you to lean into those areas that may not come as naturally or as easily and giving yourself space to try, stumble, and improve.
 
 Embracing a growth mindset can be a challenge for me - it feels uncomfortable to face the fact that there are certain skill sets that just don't come naturally or easily to me, and that to improve I'm first going to have to reveal myself to be *not that smart after all* :scream:
 
