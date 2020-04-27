@@ -11,23 +11,24 @@ Bold | `**Making a statement using bold**` | **Making a statement using bold**
 Bold & Italic | `***This is clearly the most important thing!***` | ***This is clearly the most important thing!***
 Strikethrough | `~Changed my mind, strike that~` | ~Changed my mind, strike that~
 
-You can also use Markdown to set your headings by adding a `#` before your text.  Take a look up top, that date is actually an `<h3>` and in the code line looks like this: `### Monday, April 27th`.  If we wanted to go bigger, we could lose a couple of those hashmarks and change it to an `<h1>` header instead, like so:
-
-
-  # Monday, April 27th   
-
-
-but that seems excessive, doesn't it?
+You can also use Markdown to set your headings by adding a `#` before your text.  Take a look up top, that date is actually an `<h3>` and in the code line looks like this: `### Monday, April 27th`.  If we wanted to go bigger, we could lose a couple of those hashmarks and change it to an `<h1>` header instead.
 
 In some ways, Markdown is actually very intuitive.  Take lists, for example.  Simly by adding an `*` followed by a space, you can make a bullet point.  Ergo, your shopping list can look like this:
 
 * Milk
 * Eggs
-* Bread
+* Flour
 
-Don't forget that space between the `*` and the list item, though, or you'll wind up with nothing but a lot of bold words :wink: 
+Don't forget that space between the `*` and the list item, though, or you'll wind up with nothing but a lot of bold words! 
 
-Oh yeah, and Markdown supports emojis too!  You can check [this cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion) to see options available, but must come down to a descriptor of the emoji in between two colons.  That one I used earlier is just called wink.
+If order matters, such as in a recipe, then just change the `*` to a `1.` and you're ready to make an ordered list.  Check it out:
+
+#### Dutch Baby Recipe
+1. Preheat oven to 425 degrees.
+1. Combine 2 eggs, 1/2 cup flour and 1/2 cup milk.  Whisk until smooth.
+1. Pour batter into a greased cast iron pan.
+1. Bake for 20 minutes.
+1. Enjoy!
 
 There's certainly more to do with Markup, but this should be a good start.  And remember - when in doubt, google it and experiment!  Because as the great David Blaine once said, 
 >Whether you're shuffling a deck of cards or holding your breath, magic is pretty simple: It comes down to training, practice, and experimentation, followed up by ridiculous pursuit and relentless perseverance.
