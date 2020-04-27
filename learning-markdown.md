@@ -9,7 +9,7 @@ Description | Markdown Syntax | End Result
 Italic | `*Looking super fancy in italics*` | *Looking super fancy in italics*
 Bold | `**Making a statement using bold**` | **Making a statement using bold**
 Bold & Italic | `***This is clearly the most important thing!***` | ***This is clearly the most important thing!***
-Strikethrough | `~Changed my mind, strike that~` | ~Changed my mind, strike that~
+Strikethrough | `~~Changed my mind, strike that~~` | ~~Changed my mind, strike that~~
 
 You can also use Markdown to set your headings by adding a `#` before your text.  Take a look up top, that date is actually an `<h3>` and in the code line looks like this: `### Monday, April 27th`.  If we wanted to go bigger, we could lose a couple of those hashmarks and change it to an `<h1>` header instead.
 
