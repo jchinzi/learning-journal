@@ -11,3 +11,5 @@ So, as I continue on in my my coding education (and life in general, really) I w
 - Criticism is not a personal attack - instead, it is a learning opportunity.  Take it as such and *LISTEN*.
 - Don't be intimidated by or jealous of the success of others.  Be inspired and see them as potential resources. 
 
+
+[Home](https://jchinzi.github.io/learning-journal/)
