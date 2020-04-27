@@ -12,7 +12,11 @@ Bold & Italic | `***This is clearly the most important thing!***` | ***This is c
 Strikethrough | `~Changed my mind, strike that~` | ~Changed my mind, strike that~
 
 You can also use Markdown to set your headings by adding a `#` before your text.  Take a look up top, that date is actually an `<h3>` and in the code line looks like this: `### Monday, April 27th`.  If we wanted to go bigger, we could lose a couple of those hashmarks and change it to an `<h1>` header instead, like so:
+
+
   # Monday, April 27th   
+
+
 but that seems excessive, doesn't it?
 
 In some ways, Markdown is actually very intuitive.  Take lists, for example.  Simly by adding an `*` followed by a space, you can make a bullet point.  Ergo, your shopping list can look like this:
