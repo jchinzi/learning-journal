@@ -31,6 +31,9 @@ ___
 |Shell|A part of the OS that defines how the terminal will behave and look after executing commands|
 |Path|A means to get to a particular file or directory on the system|
 |Root Directory|The very top of the file system's hierarchical structure|
+|Absolute Path|A path described in relation to the root directory - they will always begin witha forward slash (/)|
+|Relative Path|A path described in relation to where we currently are in a system|
+
 
 |Commands|Effects|
 |:-:|--:|
@@ -38,6 +41,16 @@ ___
 |pwd|Print Working Directory, aka where am I?|
 |ls|List, aka what's here?|
 |ls -l| Long List, a more detailed account of what is here|
-|
+| ~ |Shortcut for your home directory|
+| . |Reference to your current directory|
+| .. |Reference to the parent directory|
+|cd| Change Directory|
+|**TAB**|Tab Completion - an autocomplete option in the command line|
+|''|Quote marks are useful for noting files that include one or more spaces in the name|
+|`\`|Backslash can be used to nullify the special meaning of the next character|
+|file|Obtain information about what type of file a file or directory is|
+|ls -a|List the contents of a directory including hidden files|
+
+
 
 [Home](https://jchinzi.github.io/learning-journal/)
