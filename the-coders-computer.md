@@ -20,4 +20,24 @@ Again, like the native text editor, the kind of computer you're using will dicta
 
 In addition, some of these 3rd party text editors are in fact a part of something larger called an **Integrated Development Environment**, or **IDE** for short.  An IDE is a software package that includes a text editor (like those we've been discussing) as well as a file manager, a compiler and a debugger.  In this way, a user has access to a much wider range of features and can move far beyond the initial code while remaining confidant that the various tools will work with each other reliably becuase they are all a part of the same integrated environment.
 
+___
+
+### Cheat Sheet for Basic Terminal Usage
+
+|Terms|Definitions|
+|:--|--:|
+|Command Line|(Terminal) Text based interface to the system|
+|Command|The first thing you type - this will be followed by the command line arguments|
+|Shell|A part of the OS that defines how the terminal will behave and look after executing commands|
+|Path|A means to get to a particular file or directory on the system|
+|Root Directory|The very top of the file system's hierarchical structure|
+
+|Commands|Effects|
+|:-:|--:|
+|Up/Down Arrow Key|Scroll through history of past commands entered|
+|pwd|Print Working Directory, aka where am I?|
+|ls|List, aka what's here?|
+|ls -l| Long List, a more detailed account of what is here|
+|
+
 [Home](https://jchinzi.github.io/learning-journal/)
