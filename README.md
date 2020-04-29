@@ -8,10 +8,10 @@ This page is a documentation of the work I've done as a part of Code 102, Code F
 
 ## Table of Contents
 
-[Lab 01b - Learning Markdown](https://jchinzi.github.io/learning-journal/growth-mindset)
+* [Lab 01b - Learning Markdown](https://jchinzi.github.io/learning-journal/growth-mindset)
 
-[Read 01 - Learning Markdown](https://jchinzi.github.io/learning-journal/learning-markdown)
+* [Read 01 - Learning Markdown](https://jchinzi.github.io/learning-journal/learning-markdown)
 
-[Read 02 - The Coder's Computer](https://jchinzi.github.io/learning-journal/the-coders-computer)
+* [Read 02 - The Coder's Computer](https://jchinzi.github.io/learning-journal/the-coders-computer)
 
-[Read 03 - Revisions and the Cloud](https://jchinzi.github.io/learning-journal/revisions-and-the-cloud)
+* [Read 03 - Revisions and the Cloud](https://jchinzi.github.io/learning-journal/revisions-and-the-cloud)
