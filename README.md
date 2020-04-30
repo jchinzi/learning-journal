@@ -17,3 +17,5 @@ This page is a documentation of the work I've done as a part of Code 102, Code F
 * [Read 03 - Revisions and the Cloud](https://jchinzi.github.io/learning-journal/revisions-and-the-cloud)
 
 * [Read 04 - Structure Web Pages with HTML](https://jchinzi.github.io/learning-journal/structure-web-pages-with-html)
+
+* [Read 05 - Design Web Pages with CSS](https://jchinzi.github.io/learning-journal/design-with-css)
