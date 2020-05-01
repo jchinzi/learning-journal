@@ -57,6 +57,16 @@ That line allows your project to pull formatting from the linked css file so tha
 
 #### And Now, a little on COLORS
 
+Color is a great way to make your page pop, and utilitzing thoughtful contrast between you text and background can greatly improve readability for your site visitors.
 
+CSS has several ways of indicating color: color name, rgb value, hex code, and hsl.
+
+>Color Name is exactly what it sounds like - there are over 100 predefined color names that a browser can recognize, such as MediumAquaMarine.
+
+>RGB value actually combines Red, Green and Blue - each in a value between 0 and 255 - to give you a specific shade.  For example, that same MediumAquaMarine can be written as rgb(102,205,170).  A fourth value, a, can be added to indicate opacity.
+
+>Hex values convey information in a similar way to rgb, but subsituting in hex codes.  So returning to MediumAquaMarine we now have #66cdaa
+
+>HSL stands for Hue, Saturation and Lightness.  Hue looks at a color wheel and indicates the hue as an angle between 0 and 360.  Saturation and Lightness are both expressed as a percentage.  Just like rgb, hsl can also take an optional fourth value of a to express opacity.
 
 [Home](https://jchinzi.github.io/learning-journal/)
