@@ -37,6 +37,26 @@ However, too much of this can make your code look cluttered.
 
 For a single page website, you may opt for something called internal css.  This is not inline like the previous example, but is instead code added within the head tags that will instruct the styling of the rest of the page.  This code will be entered within `<style>` tags and should include a type attribute that indicates what you are using css to style.  This would look like:
 
-> `<style type="text/css"></style>`
+> `<head>`
+
+>`<style type="text/css"> CSS CODE HERE </style>`
+
+>`</head>`
+
+This allows you to keep all the CSS formatting up in the head of your code - but even that can end up looking rather cluttered.  That's why many prefer to keep a separate style sheet entirely.  Sometimes even more than one!
+
+But if your CSS code is entirely separate - how, you may ask, can the one influence the other?  Well, this is the perfect time to learn how to link files to your code.
+
+Again, like with internal css, you want to work within the head tags of your code.  However, instead of inluding the nitty gritty of the css code there, you'll instead include a link using the following format:
+
+> `<link href="FILENAME.css" type="text/css" rel="stylesheet" />`
+
+That line allows your project to pull formatting from the linked css file so that you can keep your workplace tidy without sacrificing your ability to format your page.
+
+---
+
+#### And Now, a little on COLORS
+
+
 
 [Home](https://jchinzi.github.io/learning-journal/)
