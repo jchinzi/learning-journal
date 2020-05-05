@@ -19,3 +19,5 @@ This page is a documentation of the work I've done as a part of Code 102, Code F
 * [Read 04 - Structure Web Pages with HTML](https://jchinzi.github.io/learning-journal/structure-web-pages-with-html)
 
 * [Read 05 - Design Web Pages with CSS](https://jchinzi.github.io/learning-journal/design-with-css)
+
+* [Read 06a - Dynamic Web Pages with JavaScript](https://jchinzi.github.io/learning-journal/dynamic-js)
