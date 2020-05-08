@@ -23,3 +23,5 @@ This page is a documentation of the work I've done as a part of Code 102, Code F
 * [Read 06a - Dynamic Web Pages with JavaScript](https://jchinzi.github.io/learning-journal/dynamic-js)
 
 * [Read 06b - Computer Architecture and Logic](https://jchinzi.github.io/learning-journal/architecture-and-logic)
+
+* [Read 07 - Programming with JavaScript](https://jchinzi.github.io/learning-journal/js-programming)
